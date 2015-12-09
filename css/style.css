@@ -1,0 +1,41 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #747704;
+}
+
+hr {
+    border: none;
+    height: 5px;
+    color: #bcbbbb; /* old IE */
+    background-color: #bcbbbb; /* Modern Browsers */
+}
+
+h4 {
+	font-size: 20px;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 50px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
+.category-title {
+	margin-top: 50px;
+	margin-left: 15px;
+}
+
+.item-title {
+	font-size: 30px;
+}
