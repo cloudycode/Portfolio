@@ -2,6 +2,7 @@ body {
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	color: #747704;
+  padding-top: 70px;
 }
 
 hr {
@@ -49,6 +50,7 @@ h4 {
   h4 {
     font-size: 16px;
   }
+
   .category-title
   {
     margin-top: 20px;
